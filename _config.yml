@@ -1,0 +1,18 @@
+analytics: {}
+color:
+  brandColors:
+    - '#D8B0B0'
+    - '#A04050'
+    - '#A84858'
+    - '#A03048'
+    - '#D098A0'
+  brandStrength: 0.820945
+  lightness: 0.981479
+  rhythmicContrast: 0.615991
+  saturation: 0.733108
+cta: {}
+layout_spectrum: 0.6384656191876719
+name: TarotJen
+opengraph: {}
+purpose: {}
+typography_spectrum: 0.811937
